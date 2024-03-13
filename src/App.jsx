@@ -12,7 +12,7 @@ function App() {
     <>
 
       <Header></Header>
-      <div className='flex items-center'>
+      <div className='flex'>
         <Blogs></Blogs>
         <Bookmarks></Bookmarks>
       </div>
